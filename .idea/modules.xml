@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-test-trello-test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-test-trello-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-test-trello-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-test-trello-test_main.iml" group="trello-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-test-trello-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-test-trello-test_test.iml" group="trello-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/next.iml" filepath="$PROJECT_DIR$/.idea/modules/next.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/next_main.iml" filepath="$PROJECT_DIR$/.idea/modules/next_main.iml" group="next" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/next_test.iml" filepath="$PROJECT_DIR$/.idea/modules/next_test.iml" group="next" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-test.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-test_main.iml" group="trello-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-test_test.iml" group="trello-test" />
+    </modules>
+  </component>
+</project>
